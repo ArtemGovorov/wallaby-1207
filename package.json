@@ -1,0 +1,8 @@
+{
+  "name": "wallaby-1207",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^15.6.1",
+    "typescript": "^2.2.2"
+  }
+}
